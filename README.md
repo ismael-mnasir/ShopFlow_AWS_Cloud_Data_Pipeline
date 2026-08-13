@@ -23,7 +23,7 @@ The pipeline automatically detects new sales CSV files uploaded to an Amazon S3 
 
 Data Ingestion (Amazon S3):
 
-Raw sales CSV files are uploaded to s3://ismael-shopflow-2026/raw-data/.
+- Raw sales CSV files are uploaded to s3://ismael-shopflow-2026/raw-data/.
 
 Schema Discovery & Metadata Cataloging (AWS Glue Crawler):
 
